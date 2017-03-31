@@ -4,3 +4,5 @@
 /vs12/x64
 /vs12/*.sdf
 /vs12/*.opensdf
+/lib
+/vs12/*.suo

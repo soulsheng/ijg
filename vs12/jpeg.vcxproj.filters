@@ -60,9 +60,6 @@
     <ClCompile Include="..\jcparam.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\jcphuff.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="..\jcprepct.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -111,9 +108,6 @@
     <ClCompile Include="..\jdmerge.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\jdphuff.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="..\jdpostct.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -142,9 +136,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\jidctint.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\jidctred.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\jmemansi.c">
