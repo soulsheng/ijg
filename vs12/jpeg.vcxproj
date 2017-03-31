@@ -143,8 +143,10 @@
   <ItemGroup>
     <ClCompile Include="..\ckconfig.c" />
     <ClCompile Include="..\example.c" />
+    <ClCompile Include="..\jaricom.c" />
     <ClCompile Include="..\jcapimin.c" />
     <ClCompile Include="..\jcapistd.c" />
+    <ClCompile Include="..\jcarith.c" />
     <ClCompile Include="..\jccoefct.c" />
     <ClCompile Include="..\jccolor.c" />
     <ClCompile Include="..\jcdctmgr.c" />
@@ -160,6 +162,7 @@
     <ClCompile Include="..\jctrans.c" />
     <ClCompile Include="..\jdapimin.c" />
     <ClCompile Include="..\jdapistd.c" />
+    <ClCompile Include="..\jdarith.c" />
     <ClCompile Include="..\jdatadst.c" />
     <ClCompile Include="..\jdatasrc.c" />
     <ClCompile Include="..\jdcoefct.c" />

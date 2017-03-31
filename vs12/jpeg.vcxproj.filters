@@ -153,5 +153,14 @@
     <ClCompile Include="..\jutils.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\jcarith.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jdarith.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jaricom.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
